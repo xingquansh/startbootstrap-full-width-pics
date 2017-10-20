@@ -1,7 +1,7 @@
 {
   "title": "Full Width Pics",
   "name": "startbootstrap-full-width-pics",
-  "version": "4.0.0-beta",
+  "version": "4.0.0-beta.2",
   "description": "A HTML template featuring sections with full width image backgrounds built with Bootstrap",
   "keywords": [
     "css",
@@ -26,9 +26,8 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-full-width-pics.git"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-beta",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.11.1"
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
